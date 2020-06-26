@@ -1,6 +1,7 @@
 ---
-layout: page
-title: Coursework
+layout: default
+title: Collection
+has_children: true
 ---
 
 ## Code Collection
