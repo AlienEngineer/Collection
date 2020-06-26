@@ -1,3 +1,8 @@
+---
+layout: page
+title: Coursework
+---
+
 ## Code Collection
 
 You can use the [editor on GitHub](https://github.com/AlienEngineer/Collection/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
